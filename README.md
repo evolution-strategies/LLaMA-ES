@@ -4,6 +4,8 @@ This repository contains the implementation of LLaMA-ES, an innovative approach 
 
 We use the LLaMA3 model with 70 billion parameters to conduct experiments on various numerical benchmark optimization problems. This dynamic and intelligent parameter adjustment process significantly enhances the performance of CMA-ES, demonstrating its effectiveness in achieving competitive parameter tuning results.
 
+The approach is published at ESANN 2024.
+
 ## Key Features
 
 - **Hyperparameter Tuning**: Utilizes LLaMA3 to suggest optimal CMA-ES parameters.
