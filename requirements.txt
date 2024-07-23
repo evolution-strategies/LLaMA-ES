@@ -1,0 +1,4 @@
+cma
+numpy
+pandas
+ollama
