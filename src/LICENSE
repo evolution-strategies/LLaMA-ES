@@ -1,0 +1,9 @@
+### LICENSE
+Choose an appropriate license from [choosealicense.com](https://choosealicense.com/), such as the MIT License.
+
+### requirements.txt
+```plaintext
+cma
+numpy
+pandas
+ollama
